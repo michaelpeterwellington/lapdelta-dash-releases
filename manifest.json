@@ -1,0 +1,8 @@
+{
+  "version": "v0.2.1",
+  "url": "https://github.com/michaelpeterwellington/lapdelta-dash-releases/releases/download/v0.2.1/lapdelta-dash-v0.2.1.bin",
+  "sha256": "a4d211eee3b34df867b16dca350d062276976fd11f4846df7d54c7edf11d6ea8",
+  "size": 2166784,
+  "notes": "release: verify RELEASES_TOKEN can push to the public repo before publishing",
+  "min_board_rev": 1
+}
