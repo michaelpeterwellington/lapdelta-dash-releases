@@ -1,8 +1,8 @@
 {
-  "version": "v0.2.2",
-  "url": "https://github.com/michaelpeterwellington/lapdelta-dash-releases/releases/download/v0.2.2/lapdelta-dash-v0.2.2.bin",
-  "sha256": "562fb53006e47786a90849e238bfc8b0ec6573f7116551a31c04168934448519",
+  "version": "v0.2.3",
+  "url": "https://github.com/michaelpeterwellington/lapdelta-dash-releases/releases/download/v0.2.3/lapdelta-dash-v0.2.3.bin",
+  "sha256": "0d0f06eaa62eb8eb645219dab1669e9647d24ab4d28a386dd8f64f8efd628862",
   "size": 2166784,
-  "notes": "LapDelta Dash 0.2.2",
+  "notes": "LapDelta Dash 0.2.3",
   "min_board_rev": 1
 }
