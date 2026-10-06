@@ -1,8 +1,8 @@
 {
-  "version": "v0.2.4",
-  "url": "https://github.com/michaelpeterwellington/lapdelta-dash-releases/releases/download/v0.2.4/lapdelta-dash-v0.2.4.bin",
-  "sha256": "0d536a2546bfa2d0c1f18334211d83cb1910447e0e44a002bc1cb0644a5e0291",
-  "size": 2166784,
-  "notes": "v0.2.4: Insta360 X5 camera link proven, RaceBox name the lapdelta apps can see",
+  "version": "v0.2.5",
+  "url": "https://github.com/michaelpeterwellington/lapdelta-dash-releases/releases/download/v0.2.5/lapdelta-dash-v0.2.5.bin",
+  "sha256": "7a653ef1adf2c173a04a2a72654cc6ea0b82b787913542f38d768ad46533e5f3",
+  "size": 2232320,
+  "notes": "v0.2.5: tracks from the card at any scale, sectors and predicted lap, RPM self-test, phone-friendly export page",
   "min_board_rev": 1
 }
