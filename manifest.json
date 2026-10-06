@@ -1,7 +1,7 @@
 {
   "version": "v0.2.5",
   "url": "https://github.com/michaelpeterwellington/lapdelta-dash-releases/releases/download/v0.2.5/lapdelta-dash-v0.2.5.bin",
-  "sha256": "7a653ef1adf2c173a04a2a72654cc6ea0b82b787913542f38d768ad46533e5f3",
+  "sha256": "52988ba4e97bb5f28465cdd2aa9e18cfb5e4851683d85e50ca72489d5a84e7f0",
   "size": 2232320,
   "notes": "v0.2.5: tracks from the card at any scale, sectors and predicted lap, RPM self-test, phone-friendly export page",
   "min_board_rev": 1
