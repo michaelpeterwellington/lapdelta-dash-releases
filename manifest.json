@@ -1,8 +1,8 @@
 {
-  "version": "v0.2.5",
-  "url": "https://github.com/michaelpeterwellington/lapdelta-dash-releases/releases/download/v0.2.5/lapdelta-dash-v0.2.5.bin",
-  "sha256": "52988ba4e97bb5f28465cdd2aa9e18cfb5e4851683d85e50ca72489d5a84e7f0",
+  "version": "v0.2.6",
+  "url": "https://github.com/michaelpeterwellington/lapdelta-dash-releases/releases/download/v0.2.6/lapdelta-dash-v0.2.6.bin",
+  "sha256": "5133d2a6ce2d59710e0f0abb6853926eb787bc1fcfd4f8c7d9230cecd6896475",
   "size": 2232320,
-  "notes": "v0.2.5: tracks from the card at any scale, sectors and predicted lap, RPM self-test, phone-friendly export page",
+  "notes": "v0.2.6: circuit layout matching that works from the pit exit, RPM self-test to redline, task and timing robustness",
   "min_board_rev": 1
 }
