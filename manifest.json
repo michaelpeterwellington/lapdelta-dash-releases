@@ -1,8 +1,8 @@
 {
-  "version": "v0.2.7",
-  "url": "https://github.com/michaelpeterwellington/lapdelta-dash-releases/releases/download/v0.2.7/lapdelta-dash-v0.2.7.bin",
-  "sha256": "66f3050d1bd81e29ff9e240c47e53687eede12fa9510d863f33d7662427572cb",
+  "version": "v0.2.8",
+  "url": "https://github.com/michaelpeterwellington/lapdelta-dash-releases/releases/download/v0.2.8/lapdelta-dash-v0.2.8.bin",
+  "sha256": "e3ec330002391a72fcb27187fb500b4a2fa83509195f3f1c58de3fb603afd012",
   "size": 2297856,
-  "notes": "LapDelta Dash 0.2.7: demo mode, exFAT cards, time zone, GPS and IMU fixes",
+  "notes": "LapDelta Dash 0.2.8: braking and cornering g you can trust",
   "min_board_rev": 1
 }
