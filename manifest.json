@@ -1,8 +1,8 @@
 {
-  "version": "v0.2.8",
-  "url": "https://github.com/michaelpeterwellington/lapdelta-dash-releases/releases/download/v0.2.8/lapdelta-dash-v0.2.8.bin",
-  "sha256": "e3ec330002391a72fcb27187fb500b4a2fa83509195f3f1c58de3fb603afd012",
+  "version": "v0.2.9",
+  "url": "https://github.com/michaelpeterwellington/lapdelta-dash-releases/releases/download/v0.2.9/lapdelta-dash-v0.2.9.bin",
+  "sha256": "f50b7365d112d5819c1c5d10343235a0e3ab60a331c2c7a1a8aae371ada766da",
   "size": 2297856,
-  "notes": "LapDelta Dash 0.2.8: braking and cornering g you can trust",
+  "notes": "LapDelta Dash 0.2.9: the screen follows the mount",
   "min_board_rev": 1
 }

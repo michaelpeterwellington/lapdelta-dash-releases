@@ -1,13 +1,13 @@
 {
   "name": "LapDelta Dash",
-  "version": "v0.2.8",
+  "version": "v0.2.9",
   "new_install_prompt_erase": true,
   "builds": [
     {
       "chipFamily": "ESP32-S3",
       "parts": [
         {
-          "path": "firmware/lapdelta-dash-v0.2.8-merged.bin",
+          "path": "firmware/lapdelta-dash-v0.2.9-merged.bin",
           "offset": 0
         }
       ]
