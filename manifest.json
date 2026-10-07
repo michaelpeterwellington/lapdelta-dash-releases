@@ -1,8 +1,8 @@
 {
-  "version": "v0.2.6",
-  "url": "https://github.com/michaelpeterwellington/lapdelta-dash-releases/releases/download/v0.2.6/lapdelta-dash-v0.2.6.bin",
-  "sha256": "5133d2a6ce2d59710e0f0abb6853926eb787bc1fcfd4f8c7d9230cecd6896475",
-  "size": 2232320,
-  "notes": "v0.2.6: circuit layout matching that works from the pit exit, RPM self-test to redline, task and timing robustness",
+  "version": "v0.2.7",
+  "url": "https://github.com/michaelpeterwellington/lapdelta-dash-releases/releases/download/v0.2.7/lapdelta-dash-v0.2.7.bin",
+  "sha256": "66f3050d1bd81e29ff9e240c47e53687eede12fa9510d863f33d7662427572cb",
+  "size": 2297856,
+  "notes": "LapDelta Dash 0.2.7: demo mode, exFAT cards, time zone, GPS and IMU fixes",
   "min_board_rev": 1
 }
