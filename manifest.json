@@ -1,8 +1,8 @@
 {
-  "version": "v0.2.10",
-  "url": "https://github.com/michaelpeterwellington/lapdelta-dash-releases/releases/download/v0.2.10/lapdelta-dash-v0.2.10.bin",
-  "sha256": "1a09eff3ee167a6aec349fea47663372254f4cfda64c02ebec40642b30252601",
+  "version": "v0.2.11",
+  "url": "https://github.com/michaelpeterwellington/lapdelta-dash-releases/releases/download/v0.2.11/lapdelta-dash-v0.2.11.bin",
+  "sha256": "4f072aacf2a3c102d0bc770e0efb51c1cc612d3af0ad03a3950feac0b548ce43",
   "size": 2297856,
-  "notes": "LapDelta Dash 0.2.10: DJI camera link and faster GPS starts",
+  "notes": "LapDelta Dash 0.2.11: a more robust RPM input",
   "min_board_rev": 1
 }
