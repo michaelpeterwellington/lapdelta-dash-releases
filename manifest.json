@@ -1,8 +1,8 @@
 {
-  "version": "v0.2.11",
-  "url": "https://github.com/michaelpeterwellington/lapdelta-dash-releases/releases/download/v0.2.11/lapdelta-dash-v0.2.11.bin",
-  "sha256": "4f072aacf2a3c102d0bc770e0efb51c1cc612d3af0ad03a3950feac0b548ce43",
-  "size": 2297856,
-  "notes": "LapDelta Dash 0.2.11: a more robust RPM input",
+  "version": "v0.2.12",
+  "url": "https://github.com/michaelpeterwellington/lapdelta-dash-releases/releases/download/v0.2.12/lapdelta-dash-v0.2.12.bin",
+  "sha256": "ab60412785dfe8922bcd3b492430903c495ce194afde8fac0f3519ae0c69d3b4",
+  "size": 2494464,
+  "notes": "LapDelta Dash 0.2.12: AI insights, SETUP menus and a sample session",
   "min_board_rev": 1
 }
