@@ -1,8 +1,8 @@
 {
-  "version": "v0.2.14",
-  "url": "https://github.com/michaelpeterwellington/lapdelta-dash-releases/releases/download/v0.2.14/lapdelta-dash-v0.2.14.bin",
-  "sha256": "3b810cdb88c7bf8f78c4b094e121eb3d45c23fbf829cb43ec2582c6cf6cd939b",
+  "version": "v0.2.15",
+  "url": "https://github.com/michaelpeterwellington/lapdelta-dash-releases/releases/download/v0.2.15/lapdelta-dash-v0.2.15.bin",
+  "sha256": "d9691f128c71e2fbd978398d857f7bacb806eae9a229d5515dd5ba83676d3266",
   "size": 2560000,
-  "notes": "LapDelta Dash 0.2.14: download every European track",
+  "notes": "LapDelta Dash 0.2.15: steadier first boot with new tracks",
   "min_board_rev": 1
 }
