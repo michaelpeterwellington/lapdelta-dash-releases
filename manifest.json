@@ -1,8 +1,8 @@
 {
-  "version": "v0.2.15",
-  "url": "https://github.com/michaelpeterwellington/lapdelta-dash-releases/releases/download/v0.2.15/lapdelta-dash-v0.2.15.bin",
-  "sha256": "d9691f128c71e2fbd978398d857f7bacb806eae9a229d5515dd5ba83676d3266",
+  "version": "v0.2.16",
+  "url": "https://github.com/michaelpeterwellington/lapdelta-dash-releases/releases/download/v0.2.16/lapdelta-dash-v0.2.16.bin",
+  "sha256": "806ab6673445d2d1cd3449856de31bfc13e4260881f79e41b27c1dbce336306c",
   "size": 2560000,
-  "notes": "LapDelta Dash 0.2.15: steadier first boot with new tracks",
+  "notes": "LapDelta Dash 0.2.16: set up for a track CB500 out of the box",
   "min_board_rev": 1
 }
